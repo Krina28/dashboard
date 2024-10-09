@@ -25,7 +25,7 @@ const Item = styled(Paper)(({ theme }) => ({
 export default function SearchBar() {
   return (
     <> 
-    <Stack direction="row" spacing={2} alignItems={'center'} marginTop={2} marginRight={20} marginLeft={20}>
+    <Stack direction="row" spacing={2} alignItems={'center'} marginRight={20} marginLeft={20}>
         <Item>
             <Box
                 component="form"

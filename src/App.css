@@ -28,12 +28,12 @@
   color: #61dafb;
 }
 
-
 .main-container {
   background-repeat: no-repeat;
   background-position: center; 
   position: relative;
-  background-image: url('https://fastly.picsum.photos/id/47/4272/2848.jpg?hmac=G8dXSLa-ngBieraQt5EORu-4r6tveX3fhvBTZM0Y8xM');
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
 
 @keyframes App-logo-spin {
